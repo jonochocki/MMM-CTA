@@ -20,7 +20,7 @@ Module.register("MMM-CTA", {
 	// requireVersion: 
 
 	getStyles: function() {
-		return ["font-awesome.css"];
+		return ["font-awesome.css, cta.css"];
 	},
 
 /*	loader: function() {
