@@ -1,0 +1,26 @@
+{
+  "name": "MMM-CTA",
+  "version": "1.0.0",
+  "description": "CTA Transit Times Module for Magic Mirror",
+  "main": "MMM-CTA.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jonochocki/MMM-CTA.git"
+  },
+  "keywords": [
+    "magicmirror",
+    "CTA",
+    "module",
+    "home-assistant"
+  ],
+  "author": "Jon Ochocki",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/jonochocki/MMM-CTA/issues"
+  },
+  "homepage": "https://github.com/jonochocki/MMM-CTA#readme",
+  "dependencies": {
+    "request": "latest",
+    "underscore": "latest"
+    }
+}
